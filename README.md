@@ -14,4 +14,4 @@ The High Resolution Imaging Experiment is known as HIRISE. The big and powerful 
 - Best f1-score: EfficientNetB0
   - Reason: SOTA
 - Best efficiency: EfficientNetB0
-  - Smallest size and fastest training
+  - Smallest size and fastest training speed
